@@ -17,4 +17,10 @@ public class SeleniumTest {
 		System.out.println("ios app is working");
 	}
 
+	@Test
+	public void developingApp()
+	{
+		System.out.println("ios app has been developed");
+	}
+
 }
